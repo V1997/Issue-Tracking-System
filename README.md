@@ -15,14 +15,6 @@ No PHP Frameworks used.
 
 *It comes with easy users guide and developer documentation.*
 
-## Donate
-If this project help you reduce time to develop, you can give me a cup of coffee to continue its development. Thank you! :)
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GD32E7M9SJ8V4)
-
-
-*Translated into:* ![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/gr_flag.jpg "Cover")  ![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/bg_flag.jpg "Cover")  ![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/en_flag.jpg "Cover")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/fr_flag.jpg "Cover")
-
 ### Installation
 + Upload files to your web server
 + Import DATABASE.sql to your database
@@ -95,16 +87,3 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 + MySQL 4.1.1+
 + PHP 5.3.2+
 + a webserver (eg. Apache or IIS)
-
-### Screenshots
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/create-a-page.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/create-a-ticket.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/create-project-home-screen.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/general-settings.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/page-view.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/ticket-view.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/tickets-activity.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/tickets-dashboard.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/add-user.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/currency_convertor.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/publiclink_share1.png "Logo Title Text 1")
